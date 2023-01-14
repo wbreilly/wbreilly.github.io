@@ -1,10 +1,13 @@
-title: Walter Reilly | Learning Scientist
+title: <p align="center"> Walter Reilly </p>
 logo: "/assets/img/walter_reilly.png?raw=true"
 description: 
-  
-  <br><br>
+    <p align="center">
+  <a href="/assets/img/walterreiily_resume_10_22.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/wbreilly/">LinkedIn</a> |
+  <a href="https://github.com/wbreilly">GitHub</a>
+  </p>
 
-  <a href="/assets/img/walterreiily_resume_10_22.pdf">Resume</a> | <a href="https://www.linkedin.com/in/wbreilly/">LinkedIn</a> | <a href="https://github.com/wbreilly">GitHub</a>
+   
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
